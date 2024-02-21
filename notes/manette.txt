@@ -1,0 +1,13 @@
+Bouttons : 
+A = 0
+B = 1
+X = 2
+Y = 3
+LB = 4
+RB = 5
+
+axis :
+0 = -1/1 JG gauche / droite 
+1 = -1/1 JG haut / bas 
+2 = -1/1 JD gauche / droite 
+3 = -1/1 JD haut / bas
